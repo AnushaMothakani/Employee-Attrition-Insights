@@ -1,8 +1,12 @@
 CREATE DATABASE hr_project;
 USE hr_project;
+
 SELECT COUNT(*) FROM hr_cleaned;
+
 SHOW TABLES;
+
 SELECT * FROM hr_cleaned LIMIT 5;
+
 SELECT SUM(attrition_flag) FROM hr_cleaned;
 
 SELECT department,
