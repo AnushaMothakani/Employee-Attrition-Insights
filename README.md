@@ -1,6 +1,6 @@
 # Employee Attrition Insights
 
-## Project Overview
+## 📌 Project Overview
 
 Employee Attrition Insights is a data analytics project that analyzes employee turnover patterns using Excel, MySQL, Python, and Power BI.
 
@@ -8,7 +8,7 @@ The objective of this project is to identify attrition trends, understand factor
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 
 * Excel – Data Cleaning & Preparation
 * MySQL – Data Storage & Analysis
@@ -17,7 +17,7 @@ The objective of this project is to identify attrition trends, understand factor
 
 ---
 
-## Key Analysis
+## 📊 Key Analysis
 
 * Overall Attrition Rate
 * Department-wise Attrition Analysis
@@ -29,7 +29,7 @@ The objective of this project is to identify attrition trends, understand factor
 
 ---
 
-## Dashboard Features
+## 📈 Dashboard Features
 
 * Employee Overview KPIs
 * Attrition Rate Tracking
@@ -40,7 +40,7 @@ The objective of this project is to identify attrition trends, understand factor
 
 ---
 
-## Project Workflow
+## 📂 Project Workflow
 
 ```text
 Dataset
