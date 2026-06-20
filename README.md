@@ -39,6 +39,7 @@ The objective of this project is to identify attrition trends, understand factor
 * Interactive Filters and Slicers
 
 <img width="1325" height="737" alt="Screenshot 2026-06-20 192441 - Copy" src="https://github.com/user-attachments/assets/8dfe01c2-1bc9-4447-a0f7-6d2f2b73aa4c" />
+<img width="1321" height="741" alt="Screenshot 2026-06-20 192503 - Copy" src="https://github.com/user-attachments/assets/7a5b04ac-258c-418f-834a-f7edcc1a1c29" />
 
 
 ---
