@@ -38,6 +38,13 @@ The objective of this project is to identify attrition trends, understand factor
 * Financial Impact of Attrition
 * Interactive Filters and Slicers
 
+<img width="1325" height="741" alt="Screenshot 2026-06-20 192555" src="https://github.com/user-attachments/assets/96f5df14-736d-4f28-afb4-5e5c37b931df" />
+<img width="1322" height="742" alt="Screenshot 2026-06-20 192530" src="https://github.com/user-attachments/assets/d7ec6b23-08fe-484f-b234-6e5ff19ef9c5" />
+<img width="1321" height="741" alt="Screenshot 2026-06-20 192503 - Copy" src="https://github.com/user-attachments/assets/dd134184-5817-405f-8d7e-a680c937e5a6" />
+<img width="1325" height="737" alt="Screenshot 2026-06-20 192441 - Copy" src="https://github.com/user-attachments/assets/544aea76-fb93-4ea4-b4c6-78a60e7ac6d3" />
+<img width="1325" height="740" alt="Screenshot 2026-06-20 192246" src="https://github.com/user-attachments/assets/5afb71c2-9b4c-4d0a-aa9b-c57b3a5f3c3d" />
+
+
 ---
 
 ## 📂 Project Workflow
