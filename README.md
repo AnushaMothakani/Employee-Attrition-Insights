@@ -42,6 +42,7 @@ The objective of this project is to identify attrition trends, understand factor
 <img width="1321" height="741" alt="Screenshot 2026-06-20 192503 - Copy" src="https://github.com/user-attachments/assets/7a5b04ac-258c-418f-834a-f7edcc1a1c29" />
 <img width="1322" height="742" alt="Screenshot 2026-06-20 192530" src="https://github.com/user-attachments/assets/6a4f1c1c-e8a5-40e6-b49b-295c03fbf0e9" />
 <img width="1325" height="741" alt="Screenshot 2026-06-20 192555" src="https://github.com/user-attachments/assets/adeb928b-d841-4a02-b085-642494594c76" />
+<img width="1325" height="740" alt="Screenshot 2026-06-20 192246" src="https://github.com/user-attachments/assets/f210110d-4659-43bb-8dd2-a5d9d0b1e46d" />
 
 
 ---
