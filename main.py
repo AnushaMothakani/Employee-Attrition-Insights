@@ -29,11 +29,11 @@ print("Department Wise Attrition Cost:")
 print(dept_cost)
 dept_cost.reset_index().to_csv("attrition_cost_by_dept", index=False)
 
-# #charts
+# charts
 dept = df.groupby("department")["attrition_flag"].mean() * 100
 dept = dept.sort_values(ascending=False)
 
-# plt.figure(figsize=(8,5))
+plt.figure(figsize=(8,5))
 dept.plot(kind="bar", color="tomato", edgecolor="black")
 plt.title("Attrition Rate by Department (%)")
 plt.ylabel("Attrition Rate(%)")
